@@ -68,7 +68,7 @@ export default defineConfig({
           {} as Record<string, string>
         )
       },
-    ]
+    ],
   ],
   shortcuts: {
     'text-nowrap': 'whitespace-nowrap overflow-hidden text-ellipsis',

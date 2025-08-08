@@ -1,2 +1,1 @@
-export const useAppStore = defineStore('app', () => {
-})
+export const useAppStore = defineStore('app', () => {})

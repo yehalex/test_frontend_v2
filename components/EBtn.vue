@@ -27,6 +27,4 @@ const props = withDefaults(defineProps<Props>(), {})
   &-warn {
   }
 }
-
-
 </style>

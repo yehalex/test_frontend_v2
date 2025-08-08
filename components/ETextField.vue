@@ -1,7 +1,7 @@
 <template>
   <div>
     <label></label>
-    <input>
+    <input />
   </div>
 </template>
 
