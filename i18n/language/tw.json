@@ -1,4 +1,33 @@
 {
   "welcome": "歡迎",
-  "test": "測試"
+  "test": "測試",
+  "userManagement": "用戶管理",
+  "createUser": "新增",
+  "editUser": "修改",
+  "name": "姓名",
+  "age": "年齡",
+  "actions": "操作",
+  "edit": "修改",
+  "delete": "刪除",
+  "save": "儲存",
+  "cancel": "取消",
+  "confirm": "確認",
+  "confirmDelete": "確定要刪除此用戶嗎？",
+  "confirmCreate": "確定要新增此用戶嗎？",
+  "confirmUpdate": "確定要更新此用戶嗎？",
+  "userCreated": "用戶新增成功",
+  "userUpdated": "用戶更新成功",
+  "userDeleted": "用戶刪除成功",
+  "validation": {
+    "nameRequired": "姓名為必填項目",
+    "nameTooShort": "姓名至少需要2個字元",
+    "nameTooLong": "姓名不能超過30個字元",
+    "nameInvalid": "姓名包含無效字元",
+    "ageRequired": "年齡為必填項目",
+    "ageInvalid": "年齡必須在1到120之間",
+    "ageMustBeInteger": "年齡必須是整數"
+  },
+  "loading": "載入中...",
+  "noUsers": "找不到用戶",
+  "error": "錯誤"
 }
